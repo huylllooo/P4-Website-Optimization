@@ -32,11 +32,11 @@ Changed the number of moving-pizzas to 40(from 200), avoid drawing to much unnec
 
 Modified updatePositions() function:
 
-	Cached List of moving-pizzas.<br />
-	Use getELementByClassName to get elements faster.<br />
-	Avoided calculations in loop.<br />
-	Used 'transform' to move pizza instead of 'left' (also edited pizza.html thanks to Safadurimo's solution for the problem using transform: https://discussions.udacity.com/t/replace-left-with-transform/20093).<br />
-	Disable logAverageFrame() function.<br />
+	Cached List of moving-pizzas.
+	Use getELementByClassName to get elements faster.
+	Avoided calculations in loop.
+	Used 'transform' to move pizza instead of 'left' (also edited pizza.html thanks to Safadurimo's solution for the problem using transform: https://discussions.udacity.com/t/replace-left-with-transform/20093).
+	Disable logAverageFrame() function.
 
 ####3: Computational Efficiency for pizza.html
 
